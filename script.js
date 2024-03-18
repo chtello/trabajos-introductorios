@@ -10,7 +10,6 @@ let plastico1 = 1;
 let papel1 = 3;
 let vidrio1 = 5;
 let madera1 = 7;
-
 let madera2 = 7;
 let vidrio2 = 5;
 let papel2 = 3;
